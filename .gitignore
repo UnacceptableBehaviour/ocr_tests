@@ -1,6 +1,9 @@
 # osx
 .DS_Store
 
+# useful - but not needing version control 
+scratch/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
